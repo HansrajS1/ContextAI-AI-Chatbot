@@ -13,11 +13,11 @@ The project is designed with modularity and scalability in mind, making it suita
 ## Features
 
 - Conversational chat interface with session-based memory
-- Retrieval-Augmented Generation using FAISS
+- Retrieval-Augmented Generation using LangChain 
 - Supports PDF, CSV, and TXT documents as knowledge sources
-- Live web search fallback when local knowledge is insufficient
+- Live web search fallback when local knowledge is insufficient using SERPAPI
 - Configurable response modes: Concise and Detailed
-- Modular architecture for LLMs, embeddings, and utilities
+- Modular architecture for LLMs(llama-3.1-8b-instant), embeddings, and utilities
 - Secure API key management using environment variables
 - Production-ready Streamlit UI
 
