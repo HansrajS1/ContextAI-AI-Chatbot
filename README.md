@@ -1,5 +1,5 @@
 # ContextAI – Retrieval-Augmented AI Chatbot
-
+Live: [Link](https://contextai-ai-chatbot.streamlit.app)
 ## Overview
 
 ContextAI is a production-ready, ChatGPT-style conversational AI application built using Streamlit.  
